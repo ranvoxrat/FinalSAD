@@ -1,0 +1,42 @@
+Project Name:BARANGAY MUZON SCHOLARSHIP ASSISTANCE MANAGEMENT SYSTEM
+Technologies Used : PHP 5.6, MYSQL, HTML,CSS, JAVASCRIPT, JQUERY, AJAX
+
+Features of Projects
+Admin/Staff (Add,edit,delete,view)
+Admin/Staff can update her/his profile.
+Manage Student(View ,edit and Delete)
+Login
+logout
+Upcoming Features
+Admin Profile
+Admin change Password
+Remember me option
+Forgot password
+Print Records
+
+Software Requirement(any one latest version of) 
+WAMP
+XAMPP
+MAMP
+LAMP
+Installation Steps(Configuration)
+1. Download and Unzip the file on your local system.
+2. Put this file inside xampp/htdocs/ .
+3. Database Configuration
+
+Open phpmyadmin
+Create Database barangaymuzon.
+Import database barangaymuzon.sql inside the include folder
+Open Your browser put inside browser “http://localhost/ScholarManagement/”
+Login Details Admin :
+For Admin:
+    Username/Password : admin/admin
+For Staff:
+    Username/Password : staff/staff   
+GROUP MEMBER
+Feliciano, Mark
+Mejos, Jerson
+Albao Shary
+Siwa, Ednalyn
+Jacinto, Babylyn
+Bobila, Andrei James
